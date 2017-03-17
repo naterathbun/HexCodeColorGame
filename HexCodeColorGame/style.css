@@ -1,5 +1,6 @@
 body {
     font-family: 'Courier New';
+    background-color: gray;
     text-align: center;
 }
 
@@ -8,6 +9,7 @@ h1 {
 }
 
 #appTop {
+    background-color: white;
     width: 80%;
     min-width: 640px;
     border-radius: 20px;
@@ -26,7 +28,7 @@ h1 {
     height: 300px;
     width: 600px;
     min-width: 600px;
-    margin-bottom: 40px;
+    margin: 40px 20px;
     border-radius: 20px;
     font: 96px Courier;
     text-align: center;
@@ -34,7 +36,33 @@ h1 {
     border: 2px solid black;
 }
 
+#numberCorrectBox {
+    height: 200px;
+    width: 200px;
+    min-width: 200px;
+    margin: 40px 20px;
+    border-radius: 20px;
+    font: 32px Courier;
+    text-align: center;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+#numberWrongBox {
+    height: 200px;
+    width: 200px;
+    min-width: 200px;
+    margin: 40px 20px;
+    border-radius: 20px;
+    font: 32px Courier;
+    text-align: center;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+
 #appBottom {
+    background-color: white;
     width: 80%;
     min-width: 640px;
     display: inline-block;

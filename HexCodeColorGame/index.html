@@ -2,27 +2,35 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>Hex Code Color Game d</title>
+    <title>Hex Code Color Game</title>
     <link href="style.css" rel="stylesheet" />
 </head>
 <body>
     <div id="appTop">
         <h1 id="directions">Click Box 1-4 to guess, or click the Hex Box to choose a new color code</h1>
-        <div id="mysteryBox">
+        <div id="numberCorrectBox">
+            <p>RIGHT:</p>
+            <p>0</p>
+        </div>
+        <div id="mysteryBox" onselectstart="return false">
             <p>#012345</p>
+        </div>
+        <div id="numberWrongBox">
+            <p>WRONG:</p>
+            <p>0</p>
         </div>
     </div>
     <div id="appBottom">
-        <div id="guessBox1" class="guessBox">
+        <div id="guessBox1" class="guessBox" onselectstart="return false">
             <p>1</p>
         </div>
-        <div id="guessBox2" class="guessBox">
+        <div id="guessBox2" class="guessBox" onselectstart="return false">
             <p>2</p>
         </div>
-        <div id="guessBox3" class="guessBox">
+        <div id="guessBox3" class="guessBox" onselectstart="return false">
             <p>3</p>
         </div>
-        <div id="guessBox4" class="guessBox">
+        <div id="guessBox4" class="guessBox" onselectstart="return false">
             <p>4</p>
         </div>
     </div>
