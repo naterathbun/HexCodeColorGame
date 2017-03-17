@@ -21,7 +21,7 @@ $(document).ready(function () {
             var oldCount = $("#numberWrongBox p:nth-child(2)").text();
             $("#numberWrongBox p:nth-child(2)").text(oldCount * 1 + 1);
             flashAnswer("numberWrongBox", "red");
-        }
+        }   
     });
 });
 

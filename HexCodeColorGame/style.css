@@ -7,6 +7,9 @@ body {
 h1 {
     margin: 40px;
 }
+p{
+    pointer-events:none;
+}
 
 #appTop {
     background-color: white;
