@@ -14,12 +14,13 @@ $(document).ready(function () {
         if (convertRGBToHex($(event.target).css("background-color")) == $("#mysteryBox p").text()) {
             var oldCount = $("#numberCorrectBox p:nth-child(2)").text();
             $("#numberCorrectBox p:nth-child(2)").text(oldCount * 1 + 1);
-            alert("Correct!");
+            flashCorrect();
             loadNewColor();
         }
         else {
             var oldCount = $("#numberWrongBox p:nth-child(2)").text();
             $("#numberWrongBox p:nth-child(2)").text(oldCount * 1 + 1);
+            flashWrong();
         }
     });
 });
@@ -58,4 +59,14 @@ function convertRGBToHex(rgb) {
         return ("0" + parseInt(x).toString(16)).slice(-2);
     }
     return ("#" + hex(rgb[1]) + hex(rgb[2]) + hex(rgb[3])).toUpperCase();
+}
+
+function flashCorrect() {
+    $("#numberCorrectBox").css("background-color", "green");
+    setTimeout(function () { $("#numberCorrectBox").css("background-color", "white"); }, 500);
+}
+
+function flashWrong() {
+    $("#numberWrongBox").css("background-color", "red");
+    setTimeout(function () { $("#numberWrongBox").css("background-color", "white"); }, 500);
 }

@@ -31,3 +31,36 @@ D:\Code\HexCodeColorGame\HexCodeColorGame\bin\Microsoft.CodeDom.Providers.DotNet
 D:\Code\HexCodeColorGame\HexCodeColorGame\obj\Debug\HexCodeColorGame.csprojResolveAssemblyReference.cache
 D:\Code\HexCodeColorGame\HexCodeColorGame\obj\Debug\HexCodeColorGame.dll
 D:\Code\HexCodeColorGame\HexCodeColorGame\obj\Debug\HexCodeColorGame.pdb
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\ApplicationInsights.config
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\roslyn\csc.exe
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\roslyn\vbc.exe
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\HexCodeColorGame.dll.config
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\HexCodeColorGame.dll
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\HexCodeColorGame.pdb
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\Microsoft.AI.Web.dll
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\Microsoft.AI.Web.xml
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\obj\Debug\HexCodeColorGame.csprojResolveAssemblyReference.cache
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\obj\Debug\HexCodeColorGame.dll
+C:\Users\Nathan Rathbun\Projects\HexCodeColorGame\HexCodeColorGame\obj\Debug\HexCodeColorGame.pdb

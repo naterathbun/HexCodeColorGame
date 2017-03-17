@@ -14,7 +14,7 @@ h1 {
     min-width: 640px;
     border-radius: 20px;
     display: inline-block;
-    margin: 20px;
+    margin: 10px;
     text-align: center;
     border: 2px solid black;
 }
@@ -25,12 +25,12 @@ h1 {
 }
 
 #mysteryBox {
-    height: 300px;
+    height: 200px;
     width: 600px;
     min-width: 600px;
-    margin: 40px 20px;
+    margin: 20px;
     border-radius: 20px;
-    font: 96px Courier;
+    font: 72px Courier;
     text-align: center;
     display: inline-block;
     border: 2px solid black;
@@ -40,7 +40,7 @@ h1 {
     height: 200px;
     width: 200px;
     min-width: 200px;
-    margin: 40px 20px;
+    margin: 20px;
     border-radius: 20px;
     font: 32px Courier;
     text-align: center;
@@ -52,7 +52,7 @@ h1 {
     height: 200px;
     width: 200px;
     min-width: 200px;
-    margin: 40px 20px;
+    margin: 20px;
     border-radius: 20px;
     font: 32px Courier;
     text-align: center;
@@ -67,17 +67,18 @@ h1 {
     min-width: 640px;
     display: inline-block;
     border-radius: 20px;
-    margin: 20px;
+    margin: 10px;
     text-align: center;
     border: 2px solid black;
 }
 
 .guessBox {
-    width: 300px;
-    min-width: 300px;
-    margin: 40px 20px;
+    height: 200px;
+    width: 200px;
+    min-width: 200px;
+    margin: 20px;
     border-radius: 20px;
-    font-size: 96px;
+    font-size: 72px;
     color: black;
     text-align: center;
     display: inline-block;
