@@ -1,19 +1,17 @@
 /// <reference path="Scripts/jquery-3.1.1.intellisense.js" />
 
-$(document).ready(function () {
+window.onload = function () {
 
-    alert("oh shit!");
-
-
-
-});
+    alert("If you can see this, the JS file loaded.");
+    // not getting any jquery functionality here.... why not?
+};
 
 
 function getRandomColor() {
     var hexDigits = '0123456789ABCDEF';
-    var color = '#';
+    var colorCode = '#';
     for (var i = 0; i < 6; i++) {
-        color += hexDigits[Math.floor(Math.random() * 16)];
+        colorCode += hexDigits[Math.floor(Math.random() * 16)];
     }
-    return color;
+    return colorCode;
 }
