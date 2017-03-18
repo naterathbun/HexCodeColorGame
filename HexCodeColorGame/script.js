@@ -63,5 +63,5 @@ function convertRGBToHex(rgb) {
 
 function flashAnswer(box, color) {
     $("#" + box).css("background-color", color);
-    setTimeout(function () { $("#" + box).css("background-color", "white"); }, 500);
+    setTimeout(function () { $("#" + box).css("background-color", "white"); }, 200);
 }
